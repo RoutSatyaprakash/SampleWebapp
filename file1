@@ -1,5 +1,13 @@
-there is the code for adding to stashing area 
+import java.util.scanner.*
+import java.io.*
+class a
+{
+Scanner sc= new Scanner (System.in){
 
-
-already push to the git and pull from the github 
-
+public static void main(String args[])
+{
+int a=2;
+int b=3;
+System,out,println(a+b);
+}
+}
